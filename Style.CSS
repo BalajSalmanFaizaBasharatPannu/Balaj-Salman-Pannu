@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 300px;
+}
+#Apps{
+    margin-bottom: 30px;
+    height: 1300px;
+    width: 100%;
+    background-color: aquamarine;
+}
+#Games{
+    margin-top: 20px;
+    height: 500px;
+    width: 100%;
+    background-color: darkblue;
+}
+#ChatBots{
+    height: 600px;
+    width: 100%;
+    background-color: darkcyan;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 50px;
+    color: white;
+}
+img { 
+    transition: transform .2s;
+}
+img:hover { 
+    transform: scale(0.8);
+}
+#myCarousel{
+    background-color: red;
+}
